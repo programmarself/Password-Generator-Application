@@ -59,8 +59,8 @@ def open_about_page():
 
     about_text = """
     Password Generator v1.0
-    Created by Anmol Yaseen
-    Copyright © 2023
+    Created by Irfan Ullah Khan
+    Copyright © 2022
 
     This password generator helps you create secure passwords
     with various character options.
